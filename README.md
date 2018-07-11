@@ -1,5 +1,5 @@
-Gradle Test
-==========
+Gradle Hello World Demo
+=======================
 
 A very simple java project with gradle.
 
