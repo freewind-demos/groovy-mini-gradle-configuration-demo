@@ -1,4 +1,4 @@
-apply plugin: 'java'
+apply plugin: 'groovy'
 
 repositories {
     mavenLocal()
@@ -6,7 +6,7 @@ repositories {
 }
 
 dependencies {
-    compile 'org.apache.commons:commons-lang3:3.4'
+    compile 'org.codehaus.groovy:groovy-all:2.5.0'
     testCompile 'junit:junit:4.11'
     testCompile 'org.easytesting:fest-assert-core:2.0M10'
 }

@@ -1,22 +1,10 @@
-Gradle Hello World Demo
+Groovy Hello World Demo
 =======================
 
-A very simple java project with gradle.
+A very simple groovy project with gradle.
 
 Run tests:
 
 ```
 ./gradlew test
 ```
-
-Setup in IDEA
---------------
-
-Use command line:
-
-```
-idea .
-```
-
-Or import the project directly with IDEA.
-
