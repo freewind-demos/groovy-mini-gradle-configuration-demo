@@ -1,10 +1,10 @@
-Groovy Hello World Demo
-=======================
+Groovy Mini Gradle Configuration Demo
+=====================================
 
-A very simple groovy project with gradle.
-
-Run tests:
+Use very (way too) simplified groovy code to demonstrate how Gradle resolve the dependencies in `build.gradle`.
 
 ```
-./gradlew test
+dependencies {
+    compile 'org.apache.commons:commons-lang3:3.4'
+}
 ```
